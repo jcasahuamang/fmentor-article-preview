@@ -1,6 +1,6 @@
 
-const btnDesktop = document.getElementById('id-button-desktop');
-const btnMobile = document.getElementById('id-button-mobile');
+const btnDesktop = document.getElementById('buttonDesktop');
+const btnMobile = document.getElementById('buttonMobile');
 const socialDesktop = document.querySelector('.social-icons-desktop');
 const socialMobile = document.querySelector('.social-icons-mobile');
 
